@@ -55,7 +55,7 @@ func main() {
 	// Arguments are YANG module names. When no modules is specified "coreswitch"
 	// is set as default YANG module name.
 	if len(args) == 0 {
-		args = []string{"coreswitch"}
+		args = []string{"soukichi"}
 	}
 
 	// Set log output.
